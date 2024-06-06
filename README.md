@@ -17,7 +17,7 @@ This project focuses on developing an elastic application for video analysis usi
 - **Face-recognition Function**: AWS Lambda function that performs face detection and recognition on individual frames.
 
 ## Project Diagram
-![Project Diagram](https://github.com/VladKuzR/Cloud_Computing/assets/123952016/2db4ee3d-e301-4145-9de4-5cf354f8da7a)
+![Project Diagram](https://github.com/VladKuzR/Video_stream_face_recognition/assets/123952016/e5444b51-f553-4f01-b8e8-79cda47eee5a)
 
 ## Technologies Used
 - **AWS Lambda**: Serverless computing service for executing code in response to triggers without provisioning or managing servers.
