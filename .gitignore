@@ -1,0 +1,21 @@
+*.swp
+package-lock.json
+__pycache__
+.pytest_cache
+.venv
+*.egg-info
+*.mp4
+redudant.txt
+grading_script.py
+workload_generator_2.py
+stage2/src/torch-2.2.2+cpu-cp312-cp312-linux_x86_64.whl
+grader_script_p1.py
+grader_script_p2_v2.py
+stage2/src/torchvision-0.17.2+cpu-cp312-cp312-linux_x86_64.whl
+outputs_1230868550
+testing_workload
+videos
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
